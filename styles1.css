@@ -1,0 +1,145 @@
+body {
+  background-color: #14274e;
+}
+
+/* navbar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #54e346;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "Montserrat-Light";
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+/* 1st Div */
+
+.intro{
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  color: #f1f6f9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.6rem;
+}
+
+.hi{
+  color: #54e346;
+  font-size: 25px;
+  font-family: 'Libre Baskerville', serif;
+}
+.myName{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4.5rem;
+  color: #f1f6f9;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.intro-para{
+  font-size: 20px;
+}
+
+.button-1{
+  font-weight: bold;
+}
+
+.about{
+  padding-top: 70px;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
+
+.my-image{
+  width: 25%;
+  height: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 180px;
+}
+
+/* skills */
+.skills{
+  padding-top: 300px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  text-align: left;
+  margin-right: 0;
+}
+
+p{
+  font-size: 20px;
+}
+
+h2{
+  font-weight: bold;
+}
+
+.skills-heading{
+  padding-top: 70px;
+}
+
+h4{
+  color: #54e346;
+  font-weight: bold;
+
+}
+
+.Languages-and-others{
+  align-items: center;
+  padding-left: 100px;
+}
+
+/* projects */
+
+.projects{
+  padding-top: 50px;
+  font-weight: bold;
+}
+
+.row{
+  padding-top: 70px;
+}
+
+.project-thumbnail{
+  height: 250px;
+  width: 450px;
+  border-radius: 5% 5% 5% 5%;
+  margin-bottom: 30px;
+  margin-left: 40px;
+
+}
+
+.footer{
+  padding-top: 50px;
+}
+
+.fa-linkedin-in,.fa-twitter{
+  width: 70px;
+  height: 25px;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+
+.Copyright{
+  padding-top: 25px;
+  color: #54e346;
+  font-weight: bold;
+}
